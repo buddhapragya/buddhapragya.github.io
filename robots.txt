@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buddhapragya.github.io/sitemap.xml
